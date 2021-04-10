@@ -14,3 +14,35 @@ h1 {
     font-size: 4rem;
     text-align: center;
 }
+
+.assign {
+    font-size: 2rem;
+    margin: 2rem auto;
+    padding: 1rem 0;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 2px solid beige;
+    width: 90%;
+}
+
+.hasownproperty {
+    font-size: 2rem;
+    margin: 2rem auto;
+    padding: 1rem 0;
+    text-align: center;
+    background-color: rgb(235, 160, 63);
+    border: 2px solid beige;
+    color: rgb(3, 0, 0);
+    width: 90%;
+}
+
+.entries {
+    font-size: 2rem;
+    margin: 2rem auto;
+    padding: 1rem 0;
+    text-align: center;
+    background-color: rgb(71, 33, 175);
+    border: 2px solid beige;
+    color: rgb(245, 238, 238);
+    width: 90%;
+}
